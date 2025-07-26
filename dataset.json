@@ -1,0 +1,3642 @@
+{
+    "country":"UGANDA",
+    "districts":[
+        {
+            "district": "HOIMA",
+            "data": [
+                {
+                    "constituency": "BUGAHYA COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "BUHANIKA",
+                            "number_of_subcounties": 31,
+                            "data": [
+                                {
+                                    "parish": "KATEREIGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KASAMBYA I",
+                                        "KATEREIGA I",
+                                        "KATEREIGA II",
+                                        "KASAMBYA II",
+                                        "KISUGA",
+                                        "KIKABURA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIKEREGE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYOMUJUNGU",
+                                        "KIGONA",
+                                        "KIHENDA",
+                                        "KIKEREGE",
+                                        "KYAMUGENZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUTEMA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIFURANSA",
+                                        "KIFUMURA I",
+                                        "KIKONKO",
+                                        "KIHUURA I",
+                                        "KIHUURA II"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITOONYA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYAMIRANSIMBI",
+                                        "KYAMUZZI",
+                                        "KIDUKURU",
+                                        "KITOONYA I",
+                                        "KITOONYA II"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITOROGYA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "ISOKOMA",
+                                        "KABURAMURRO",
+                                        "KYAKARAIGA",
+                                        "MUHANGAIZIMA",
+                                        "KITOROGYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYOHAIRWE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "GALIBOLEKA",
+                                        "KATASENYWA",
+                                        "KIFUMURA II",
+                                        "KYOHAIRWE",
+                                        "WAGESA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BUSERUKA",
+                            "number_of_subcounties": 23,
+                            "data": [
+                                {
+                                    "parish": "NYAKABINGO",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KIKYORA",
+                                        "BISENYI",
+                                        "BUSERUKA T/C",
+                                        "KARANWANGO",
+                                        "KASENYI",
+                                        "LYATO",
+                                        "NYABIHUKURU",
+                                        "NYAKABINGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "TONYA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KABANDA",
+                                        "KIJANGI A",
+                                        "KIJANGI B",
+                                        "TOONYA A",
+                                        "TOONYA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUSERUKA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BIGANDO",
+                                        "KAKODA",
+                                        "KYAKABOOGA A",
+                                        "KYAKABOOGA B",
+                                        "RWAMUTONGA A",
+                                        "RWAMUTONGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWENTALE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "FOFO",
+                                        "HOIMO",
+                                        "RWENTALE",
+                                        "KIRYAMBOGA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BULINDI TOWN COUNCIL",
+                            "number_of_subcounties": 13,
+                            "data": [
+                                {
+                                    "parish": "CENTRAL WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIHORO",
+                                        "KISEETA",
+                                        "KYAMPAKA",
+                                        "NYAITUMA",
+                                        "MPARANGASI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAKINDO WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAKINDO",
+                                        "KYAKAMESE",
+                                        "KYAMONGI",
+                                        "NYAKAKONGE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBAIRE WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KATIKARA",
+                                        "KIBAIRE",
+                                        "KIGUNGU",
+                                        "KIHAMBYA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KITOBA",
+                            "number_of_subcounties": 62,
+                            "data": [
+                                {
+                                    "parish": "BIRUNGU",
+                                    "number_of_villages": 15,
+                                    "villages": [
+                                        "BIRUNGU EAST",
+                                        "BUHAMBA",
+                                        "BUNIINA",
+                                        "KISWERO",
+                                        "KITEMBEKA",
+                                        "KITESUKURA",
+                                        "MBIIWE",
+                                        "MPUNDA",
+                                        "BIRUNGU WEST",
+                                        "KATUGO",
+                                        "KISEKE",
+                                        "KABURUNGI",
+                                        "KYANGUHIRA",
+                                        "NTOTOMA",
+                                        "NYAWAMPAMBA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BULYANGO",
+                                    "number_of_villages": 11,
+                                    "villages": [
+                                        "KABOIJANA WEST",
+                                        "BULYANGO",
+                                        "KABOIJANA EAST",
+                                        "KIKOONOKA",
+                                        "KIRAIRA EAST",
+                                        "KYAKATABA",
+                                        "MBARARA EAST",
+                                        "NYAKABAALE",
+                                        "KIRAIRA WEST",
+                                        "MBARARA WEST",
+                                        "NYAKATOOKE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBANJWA",
+                                    "number_of_villages": 11,
+                                    "villages": [
+                                        "BIRONGO",
+                                        "KIBOIRYA",
+                                        "BUKERENGE",
+                                        "KATAHIKWA",
+                                        "KIBANJWA",
+                                        "KIPAPATI",
+                                        "KYARUSURA",
+                                        "KIKEREGE",
+                                        "KIMBYANA",
+                                        "KINENAMABAALE",
+                                        "KYAMUKUNJUKI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIRAGURA",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "BWENDERO B",
+                                        "BWENDERO A",
+                                        "DWOLI EAST",
+                                        "DWOLI WEST",
+                                        "KIIZI",
+                                        "DWOLI KINYARA",
+                                        "KYAMBALIMBWIRE",
+                                        "WAGAISA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIRYANGOBE",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KIBURWA EAST",
+                                        "KIRYANGOBE",
+                                        "KITOBA",
+                                        "KYABASENGYA EAST",
+                                        "NYAKAFUNJO",
+                                        "KIBURWA WEST",
+                                        "KYABASENGYA WEST",
+                                        "BUKWARA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUDAKA",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "BUTEMBE B",
+                                        "IGAGAARA",
+                                        "BUTEMBE A",
+                                        "ISEISA A",
+                                        "KYAKAKOIZI",
+                                        "ISEISA B",
+                                        "KANYANYAMA",
+                                        "KIBUGAIRU",
+                                        "RWAMULINDA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYABIGAMBIRE",
+                            "number_of_subcounties": 28,
+                            "data": [
+                                {
+                                    "parish": "KIBUGUBYA",
+                                    "number_of_villages": 13,
+                                    "villages": [
+                                        "BUGOMORO",
+                                        "BWIZIBWERA",
+                                        "KARUNGU",
+                                        "KASOMORO",
+                                        "KATUUGO",
+                                        "KIBEGENYA",
+                                        "KIHWERA",
+                                        "KIRYABUTUZI",
+                                        "KIRYANKIMBA",
+                                        "KITONGOLE",
+                                        "KYABIGAMBIRE CENTRAL",
+                                        "KYARUBANGA",
+                                        "MPARANGASI",
+                                        "NYAKABAALE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISABAGWA",
+                                    "number_of_villages": 14,
+                                    "villages": [
+                                        "BINENEZA",
+                                        "BUGANDALE",
+                                        "BUSUUGA",
+                                        "KABALIKERA",
+                                        "KALYANGO",
+                                        "KANYAMUNYA",
+                                        "KASOKERO",
+                                        "KASUNGA",
+                                        "KATIKARA",
+                                        "KIGAWA",
+                                        "KYAKASEETA",
+                                        "NYAKABINGO EAST",
+                                        "RUHUNGA",
+                                        "NYAKABINGO WEST"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KABALLE",
+                            "number_of_subcounties": 21,
+                            "data": [
+                                {
+                                    "parish": "KABALLE",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KITEGWA A",
+                                        "RUGONJO",
+                                        "KITEGWA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "NZOROBI",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KATAABA A",
+                                        "KATAABA B",
+                                        "NYAHAIRA",
+                                        "NYAKASININA",
+                                        "NZOROBI",
+                                        "NGEMWA",
+                                        "NKWAKI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGAAGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KATOOKE",
+                                        "KAYERA",
+                                        "KIGAAGA A",
+                                        "KIGAAGA B",
+                                        "KIJUMBA",
+                                        "NYAMASOGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MBEGU",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAISO I",
+                                        "KAISO II",
+                                        "MBEGU A",
+                                        "MBEGU B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BURARU",
+                            "number_of_subcounties": 29,
+                            "data": [
+                                {
+                                    "parish": "BUSANGA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIGUNDA",
+                                        "BUSANGA",
+                                        "KIRYANKOMEKE",
+                                        "KIBINGO",
+                                        "KITEMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABANATI",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KATETE",
+                                        "KIKOWA",
+                                        "KYAHUMA",
+                                        "KISABYA",
+                                        "KASININA",
+                                        "KIRAANGA",
+                                        "KYABANATI",
+                                        "NYAKAIHURA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUYANJA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "BIGANDO",
+                                        "KINOGA",
+                                        "BUYANJA",
+                                        "KIRINDASOJO",
+                                        "KIHOHORO",
+                                        "KIKARA",
+                                        "RWOBUNYONYI"
+                                    ]
+                                },
+                                {
+                                    "parish": "BURARU",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KIHESI",
+                                        "KITASOMYA",
+                                        "NGOBYE",
+                                        "GOROOBA",
+                                        "KAKIRA",
+                                        "KIBAALI",
+                                        "KIRIMYA",
+                                        "KISAGARA",
+                                        "KISIITA"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "constituency": "KIGOROBYA COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "KAPAAPI",
+                            "number_of_subcounties": 18,
+                            "data": [
+                                {
+                                    "parish": "KYAMUKWENDA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUKWAMBO",
+                                        "BULEMBU",
+                                        "TUHUMULE",
+                                        "KIRYAWANGA",
+                                        "KYAMUKWENDA I",
+                                        "KYAMUKWENDA II"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBENGEYA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BURAZA",
+                                        "NYANTAMA",
+                                        "PIIDA",
+                                        "KIBENGEYA",
+                                        "SIIBA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAPAAPI",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIRYATETE",
+                                        "KAPAAPI I",
+                                        "KAPAAPI II EAST",
+                                        "KAPAAPI II WEST",
+                                        "KIBUYE",
+                                        "WAAKI NORTH",
+                                        "WAAKI SOUTH"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BOMBO",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "MARONGO",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "ALIWARA",
+                                        "IJAKARA",
+                                        "NYABITOOTI",
+                                        "KATUGO",
+                                        "MARONGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUHIRIGI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BUHIRIGI",
+                                        "HOIMO",
+                                        "RUJUBA",
+                                        "WAYAYO",
+                                        "LENJU"
+                                    ]
+                                },
+                                {
+                                    "parish": "HANGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "HANGA",
+                                        "KIBATI",
+                                        "ISIRIZA",
+                                        "NYAKASANDARA",
+                                        "NYAMUNDEUA I",
+                                        "NYAMUNDEUA II"
+                                    ]
+                                },
+                                {
+                                    "parish": "KANYIIRA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BOMBO",
+                                        "KANYIRA EAST",
+                                        "KANYIRA WEST",
+                                        "BUGOMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BWIKYA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAHYORO",
+                                        "BWIKYA",
+                                        "MABIRA",
+                                        "KITUNGA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KISUKUMA",
+                            "number_of_subcounties": 21,
+                            "data": [
+                                {
+                                    "parish": "BUKONA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUKONA",
+                                        "KYAKAYAYA",
+                                        "KABANGO",
+                                        "KYAKASATO"
+                                    ]
+                                },
+                                {
+                                    "parish": "HAIBALE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KABUKULI",
+                                        "HAIBALE I",
+                                        "HAIBALE II",
+                                        "KASEGA I"
+                                    ]
+                                },
+                                {
+                                    "parish": "KABATINDULE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KALANGARA",
+                                        "NGURU",
+                                        "KABATINDULE",
+                                        "RUVINGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NDARAGI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KACURU",
+                                        "KYEBAGIRA",
+                                        "NYAKIMESE",
+                                        "RUVINGA II",
+                                        "NDARAGI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISUKUMA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KISAKA",
+                                        "KISUKUMA",
+                                        "KYARUKUUBE",
+                                        "KYAMABARA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIGANJA",
+                            "number_of_subcounties": 18,
+                            "data": [
+                                {
+                                    "parish": "KIRYANDONGO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KABURAMUURO",
+                                        "KIKUMBA",
+                                        "KIRYANDONGO",
+                                        "KITEKURA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYERAMYA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIBIITO",
+                                        "KIGWAARA",
+                                        "KYERAMYA",
+                                        "KIKAMBAGYO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGANJA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIGANJA",
+                                        "KABABWA",
+                                        "KIBANDA",
+                                        "KIHUNGURA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBIRO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BIKUNYU",
+                                        "KIBIRO",
+                                        "RUNGA",
+                                        "SONGAGAAGI",
+                                        "WAAKI",
+                                        "KYABARANGWA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIGOROBYA",
+                            "number_of_subcounties": 10,
+                            "data": [
+                                {
+                                    "parish": "HANGA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "HANGA",
+                                        "ENTEBBE",
+                                        "KYAKAHOROGO",
+                                        "PELE",
+                                        "PALIYANGOMBE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABISAGAZI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KASENYI",
+                                        "KAJUURA",
+                                        "KYEIGADI",
+                                        "KINSANZA",
+                                        "KYABISAGAZI II"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIGOROBYA TOWN COUNCIL",
+                            "number_of_subcounties": 8,
+                            "data": [
+                                {
+                                    "parish": "NORTH EAST WARD",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIKUMBA",
+                                        "KYAKAZOOBA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NORTHERN WARD",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIHEESI",
+                                        "KIRYANDONGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "SOUTH EAST WARD",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIGOROBYA II",
+                                        "KIGOROBYA I"
+                                    ]
+                                },
+                                {
+                                    "parish": "SOUTH WEST WARD",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIKONKONA",
+                                        "KIKWANANA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIJONGO",
+                            "number_of_subcounties": 14,
+                            "data": [
+                                {
+                                    "parish": "KARUNGU",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BALISANGA",
+                                        "KAMUGEMBE II",
+                                        "KARUNGU",
+                                        "KYABISAGAZI I",
+                                        "MALINGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJONGO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAMUGEMBE I",
+                                        "KIMERI",
+                                        "KAINA",
+                                        "KIJONGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGOMBA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KATUUGO",
+                                        "KYATARUGA",
+                                        "MWENDANTE",
+                                        "KYAMUCUMBA",
+                                        "NYANGINI"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "district": "KAGADI",
+            "data": [
+                {
+                    "constituency": "BUYAGA EAST COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "NYABUTANZI",
+                            "number_of_subcounties": 33,
+                            "data": [
+                                {
+                                    "parish": "KIMANYA",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KASOGA EAST",
+                                        "KASOGA WEST",
+                                        "RWENGABI",
+                                        "KIGOMA",
+                                        "KIMAANYA A",
+                                        "KIMAANYA B",
+                                        "KIMAANYA C",
+                                        "KIMANYA CENTRAL"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAMASEGA",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KASINGO",
+                                        "BUTALE",
+                                        "BWARANDA A",
+                                        "MUKONI",
+                                        "KAHUMUZA",
+                                        "KYAMASEGA A",
+                                        "KYAMASEGA B",
+                                        "NYAKABALE",
+                                        "RWEMBUBA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYABUTANZI",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KAROKARUNGI A",
+                                        "KAROKARUNGI B",
+                                        "KYABITENGO",
+                                        "BWARANDA B",
+                                        "KIJUNGU",
+                                        "NYANSIIMBI",
+                                        "KIGOMA ROCKS",
+                                        "NYABUTANZI",
+                                        "NYANSAMBYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIHUURA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "BUGWARA",
+                                        "KIHUURA CENTRAL",
+                                        "KAMURANDU",
+                                        "KIBOMBO",
+                                        "MULINDA",
+                                        "KIHUURA T/C",
+                                        "KIBEERA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KAGADI",
+                            "number_of_subcounties": 34,
+                            "data": [
+                                {
+                                    "parish": "KENGA",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KENGA A",
+                                        "KENGA B",
+                                        "KIGUUNDA A",
+                                        "KIGUUNDA B",
+                                        "KISAARA",
+                                        "RUGANDO",
+                                        "KYAMAYANDA",
+                                        "KENGA CENTRAL"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIHAYURA",
+                                    "number_of_villages": 10,
+                                    "villages": [
+                                        "BUKUNGWE A",
+                                        "IHUURA",
+                                        "KASEBERE",
+                                        "MUTUMBA",
+                                        "NSAMBYA A",
+                                        "NSAMBYA B",
+                                        "IHUURA B",
+                                        "KASEBERE B",
+                                        "KABWORD",
+                                        "KYANYARUIHUMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUSIRABO",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "BUSIRABO B",
+                                        "BUSIRABO A",
+                                        "KIKUMBYA A",
+                                        "KIKUMBYA B",
+                                        "RWAMABALE A",
+                                        "RWAMABALE B",
+                                        "KYAMUKUMA",
+                                        "SESE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KANYANGOMA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KANYANGOMA A",
+                                        "KANYANGOMA B",
+                                        "MUHANGI",
+                                        "NSUGASUGI A",
+                                        "NSUGASUGI B",
+                                        "NYAKATEKE",
+                                        "KYEISANSA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIRYANGA",
+                            "number_of_subcounties": 29,
+                            "data": [
+                                {
+                                    "parish": "KIRYANGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KIRYANGA B",
+                                        "KIRYANGA A",
+                                        "KIRYANGA CENTRAL",
+                                        "KINYAMWENGE",
+                                        "KYABIKAMBA",
+                                        "ITEGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIKONDA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KABASEKE",
+                                        "KASAATO A",
+                                        "KIKONDA",
+                                        "BURAMURA",
+                                        "KISEEGU",
+                                        "KASAATO B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIHIGANA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAVULE",
+                                        "KIHIGANA A",
+                                        "KIHIGANA B",
+                                        "NYAMIRINGA A",
+                                        "NYAMIRINGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIDUUMA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIDUUMA A",
+                                        "KASAMBYA",
+                                        "KYANSAIGA",
+                                        "KAFUKYA",
+                                        "KASOZI",
+                                        "KYEYAGALIRE",
+                                        "KIDUUMA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAISAMBA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MUNSOGA",
+                                        "NGUSE",
+                                        "NYAISAMBA A",
+                                        "NYAISAMBA B",
+                                        "KYAKATEBE"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYANAISOKE",
+                            "number_of_subcounties": 16,
+                            "data": [
+                                {
+                                    "parish": "KYANAISOKE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KANKWANZI",
+                                        "KYANAISOKE T/C",
+                                        "KITERA",
+                                        "KYANAISOKE EAST"
+                                    ]
+                                },
+                                {
+                                    "parish": "NGARA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "NGARA A",
+                                        "NGARA B",
+                                        "KOBUSINGE",
+                                        "BIKOONOKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NAIGANA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KATATAHWA",
+                                        "NAIGANA",
+                                        "NAIGANA UPPER",
+                                        "NYAIBARUKYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KACUNDWA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KACUNDWA",
+                                        "KASENYI",
+                                        "RUKANDWA",
+                                        "KISENGYA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MABAALE",
+                            "number_of_subcounties": 9,
+                            "data": [
+                                {
+                                    "parish": "KAITEMBA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BIHANGA A",
+                                        "BIHANGA B",
+                                        "KAITEMBA",
+                                        "KIHUURUMA",
+                                        "KYANIKA",
+                                        "KIBUUZA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITEMUZI",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KINOGORA",
+                                        "NYANSOORO B",
+                                        "DIIDA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "ISUNGA",
+                            "number_of_subcounties": 22,
+                            "data": [
+                                {
+                                    "parish": "KAHUNDE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAHUNDE T/C",
+                                        "KIGANGAIZI",
+                                        "KISENGYA A",
+                                        "NYAKABIRA",
+                                        "KYARUTARE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJONJOMI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIJONJOMI",
+                                        "KITUKURA",
+                                        "NYAKASOZI A",
+                                        "NYAKASOZI B",
+                                        "KISISIIMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KICOPE",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIYAMBA",
+                                        "KYANAIKUKURA A",
+                                        "KYANAIKUKURA B",
+                                        "KICHOPE A",
+                                        "KICHOPE B",
+                                        "KINYWATAABA A",
+                                        "KINYWATAABA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "ISUNGA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "ISUNGA A",
+                                        "ISUNGA B",
+                                        "KIKONA",
+                                        "RWERU",
+                                        "KYAKANAGI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KAMUROZA",
+                            "number_of_subcounties": 23,
+                            "data": [
+                                {
+                                    "parish": "KAMUROZA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KAMUROZA",
+                                        "KIHEMBA A",
+                                        "KIHEMBA T/C",
+                                        "KIGUTA",
+                                        "MUNTABU",
+                                        "RUTOMA",
+                                        "KIKUUBO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYARWAKYA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYABIDOKA",
+                                        "NYAMAYEICUMU",
+                                        "KYARWAKYA",
+                                        "KINONI A",
+                                        "KINONI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAKATABA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUSAZA",
+                                        "KYAKATABA A",
+                                        "KYAKATABA B",
+                                        "KYAKATABA C"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIKOMAGWA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KABAPACA A",
+                                        "KABAPACA B",
+                                        "KYARUHURA",
+                                        "KIHEMBA B",
+                                        "KIKOMAGWA",
+                                        "KIHEMBA C"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KINYARUGONJO",
+                            "number_of_subcounties": 23,
+                            "data": [
+                                {
+                                    "parish": "KINYARUGONJO",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KYATABA",
+                                        "KINYARUGONJO",
+                                        "NYANIKA",
+                                        "RURONGO",
+                                        "KARUGENYI",
+                                        "MANGOMA A",
+                                        "KICWERA",
+                                        "MAGOMA EAST",
+                                        "KISANKWA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MUTUNGURU",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "NTUNGAMO",
+                                        "NYAKAIBO A",
+                                        "NYAKAIBO B",
+                                        "NYAKASOZI",
+                                        "MANGOMA B",
+                                        "MANGOMA C",
+                                        "MUTUNGURU"
+                                    ]
+                                },
+                                {
+                                    "parish": "MBURAMAIZI",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "NYAKARONGO EAST",
+                                        "NYAKARONGO WEST",
+                                        "MBURAMAIZI A",
+                                        "BWANGIRWA",
+                                        "MBURAMAIZI B",
+                                        "MBURAMAIZI C"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KAGADI TOWN COUNCIL",
+                            "number_of_subcounties": 17,
+                            "data": [
+                                {
+                                    "parish": "KAGADI CENTRAL WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KAGADI CENTRAL",
+                                        "KAGADI HOSPITAL",
+                                        "KAGADI NORTH",
+                                        "KAGADI TAXI PARK",
+                                        "KYENGAJU",
+                                        "NAMIRYANGO",
+                                        "KYATIKA",
+                                        "MUHUMBU"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITEGWA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIRYANE",
+                                        "KITEGWA A",
+                                        "KITONZI",
+                                        "KYARUCHAKACHA",
+                                        "MUTUNDA B",
+                                        "KIGANGAIZI",
+                                        "NYAMYEGURUMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBANGA WARD",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIBANGA I",
+                                        "KIRYABYENJU",
+                                        "KYAKABUGAHYA A",
+                                        "KYAKABUGAHYA B",
+                                        "KAHUNDE",
+                                        "KATTABAHINDI",
+                                        "KYAMUKUNISA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MAMBUGU WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "IKUMA",
+                                        "KARAMBI",
+                                        "KIRONGO",
+                                        "MAMBUGU",
+                                        "BUHUNGIRO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIRABA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "NYAKARONGO",
+                                        "KICWANYINDO",
+                                        "KIRABA UPPER",
+                                        "NYARUZIBA A",
+                                        "NYARUZIBA B",
+                                        "KIRABA LOWER",
+                                        "NAKULABYE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYOMUKAMA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "NYANGEREKA B",
+                                        "KYOMUKAMA A",
+                                        "NYANGEREKA A",
+                                        "KYOMUKAMA B",
+                                        "KYOMUNEMBE B",
+                                        "KYOMUNEMBE A",
+                                        "BUKUNGWE"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KICUCURA",
+                            "number_of_subcounties": 35,
+                            "data": [
+                                {
+                                    "parish": "KICUCURA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KICUCURA NORTH",
+                                        "KIUAGI EAST",
+                                        "KICUCURA SOUTH",
+                                        "KIUAGI TRADING CENTRE",
+                                        "NCUMBIRA A",
+                                        "NCUMBIRA B"
+                                    ]
+                        },
+                        {
+                            "parish": "KITEMBA",
+                            "number_of_villages": 6,
+                            "villages": [
+                                "KITOMA",
+                                "KYAMISANGO",
+                                "NYANSIMBI",
+                                "KITEMBA EAST",
+                                "KITEMBA TRADING CENTER",
+                                "KITEMBA WEST"
+                            ]
+                        },
+                        {
+                            "parish": "KYAMAJEGERE",
+                            "number_of_villages": 4,
+                            "villages": [
+                                "KIJJAGI WEST",
+                                "KYAMAJEGERE A",
+                                "KYAMAJEGERE B",
+                                "KYAMAJEGERE C"
+                            ]
+                        },
+                        {
+                            "parish": "KYABISULITA",
+                            "number_of_villages": 5,
+                            "villages": [
+                                "KATUGO",
+                                "KYAMAYANJA",
+                                "KYABISULITA A",
+                                "KYABISULITA B",
+                                "KYABISULITA C"
+                            ]
+                        },
+                        {
+                            "parish": "BUGWARA",
+                            "number_of_villages": 5,
+                            "villages": [
+                                "BUGWARA",
+                                "BUGWARA WEST",
+                                "KAMBUGU",
+                                "KASONGA",
+                                "MULERE"
+                            ]
+                        },
+                        {
+                            "parish": "KITOORO",
+                            "number_of_villages": 9,
+                            "villages": [
+                                "KITOORO C",
+                                "MUKASWA",
+                                "KYABAHIGI",
+                                "NYAKABALE",
+                                "KITOORO A",
+                                "KITOORO B",
+                                "KYEBIGOZA",
+                                "RWOBUGANDO",
+                                "KASOZI"
+                            ]
+                        }
+                    ]
+                        },
+                        {
+                            "subcounty": "KABAMBA",
+                            "number_of_subcounties": 33,
+                            "data": [
+                                {
+                                    "parish": "KABAMBA",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KABAMBA",
+                                        "KAISOLYA",
+                                        "MICINGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KINAGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KAROKARUNGI",
+                                        "KAHUMUZA",
+                                        "NYABURUNGI",
+                                        "NYAKARAMBI",
+                                        "KINANGA",
+                                        "RWEMIHOKO"
+                                    ]
+                                },
+                                {
+                                    "parish": "MBOGWA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KANYINYA",
+                                        "KIZIGATI",
+                                        "YAKUOOKA",
+                                        "KATIKARA",
+                                        "MBOGWA"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUZAIRE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYAKAZIMIRI",
+                                        "KYEYA",
+                                        "MUSENENE",
+                                        "RWEMANGO",
+                                        "RUZAIRE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIRYANJAGI",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KASAMBYA",
+                                        "KIRYANJAGI",
+                                        "KYAKUOKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKASOZI",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BWAMUKEERA",
+                                        "KAZIIZI",
+                                        "KIRUHURA",
+                                        "NYAKASOZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUSEKERE",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "NYAKAFUNJO",
+                                        "KINYAKAIRU",
+                                        "KYEBISOHA",
+                                        "RUGARAMBIRO",
+                                        "RUSEKERE",
+                                        "MUGOJJA",
+                                        "BUHUMURIRO"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYENZIGE",
+                            "number_of_subcounties": 16,
+                            "data": [
+                                {
+                                    "parish": "KITEMA",
+                                    "number_of_villages": 10,
+                                    "villages": [
+                                        "ITAHIRO",
+                                        "KARAGI",
+                                        "KIBINGO",
+                                        "KITEMA",
+                                        "KYABAGANDA",
+                                        "KYANGAMWOYO",
+                                        "MUGALIKE",
+                                        "MUSHENYI A",
+                                        "MUSHENYI B",
+                                        "BIHANGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MPAMBA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KIBWERA A",
+                                        "KIBWERA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYABUHIKE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIYEMBE",
+                                        "KYEICUMU",
+                                        "NYABUHIKE A",
+                                        "NYABUHIKE B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYENZIGE TOWN COUNCIL",
+                            "number_of_subcounties": 26,
+                            "data": [
+                                {
+                                    "parish": "KASOKERO WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KASOKERO A",
+                                        "KASOKERO B",
+                                        "KASOKERO C",
+                                        "KYABAKWONGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGOYE WARD",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KIGOYE",
+                                        "KYEGANYWA",
+                                        "MAISANGWE"
+                                    ]
+                                },
+                                {
+                                    "parish": "MPAMBA WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KANYINYA",
+                                        "MPAMBA A",
+                                        "NYAMBUZI",
+                                        "KISENYI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KANYEGARAMIRE WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KAGORORA",
+                                        "KANYABEBE A",
+                                        "RUKUKURU",
+                                        "KANYEGARAMIRE",
+                                        "KYABASAALI A",
+                                        "MPAMBA B",
+                                        "KYABASAALI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYENZIGE WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KATOMA",
+                                        "KYENZIGE CENTRAL",
+                                        "KYENZIGE A",
+                                        "KYENZIGE TRADING CENTRE",
+                                        "KYENZIGE B",
+                                        "KYOMUKAMA",
+                                        "KAIGUTA",
+                                        "BUYAGA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "PACHWA",
+                            "number_of_subcounties": 11,
+                            "data": [
+                                {
+                                    "parish": "KYAKABANDA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "IGWANJURA A",
+                                        "KISAKURO",
+                                        "KYAKABANDA",
+                                        "NYAKABAALE",
+                                        "KABWOTERO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABASARA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "IGWANJURA B",
+                                        "KIGUNDA A",
+                                        "KIGUNDA B",
+                                        "NASUTI",
+                                        "RWENJOBE",
+                                        "NYAKABUNGO"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "PACHWA TOWN COUNCIL",
+                            "number_of_subcounties": 23,
+                            "data": [
+                                {
+                                    "parish": "GAYAZA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "GAYAZA A",
+                                        "GAYAZA B",
+                                        "GAYAZA TC LC1",
+                                        "KIRYAMBIIRE",
+                                        "NYABINANGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAHUNIRO WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIKUURA",
+                                        "KIYAGA",
+                                        "KYAMUYOMBYA",
+                                        "KAHUNIRRO",
+                                        "MUKYAPA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMATA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAMPUMULE",
+                                        "KYALENI",
+                                        "KAMATA A",
+                                        "KAMATA B",
+                                        "NYAMPINDU"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMIGISA WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "MUKISENYI",
+                                        "NYAMIGISA",
+                                        "IROBE",
+                                        "RUGAGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "PACHWA WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIBENGO",
+                                        "BUHUMULIRO",
+                                        "KYAKADEHE",
+                                        "PACHWA TRADING CENTRE"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MABAALE TOWN COUNCIL",
+                            "number_of_subcounties": 45,
+                            "data": [
+                                {
+                                    "parish": "KARAIHYA WARD",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KYAKAHJUKU",
+                                        "KIHUURA A",
+                                        "KIHUURA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KATONZI WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KASENDA",
+                                        "KATONZI A",
+                                        "KATONZI B",
+                                        "MWERUKA",
+                                        "NYABWIRE EAST",
+                                        "NYABWIRE WEST",
+                                        "MABAALE T.C WEST",
+                                        "KYEJUMIKIIRE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYETERA WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KINGEREEZA",
+                                        "KYABAKAIDE",
+                                        "MABAALE T.C NORTH",
+                                        "KYADYOKO",
+                                        "KYETEERA A",
+                                        "NYANKWANZI",
+                                        "KYETEERA B",
+                                        "MABAALE T.C EAST"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYEYA WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KYABAHITA",
+                                        "KYEYA",
+                                        "KAMUYANGE A",
+                                        "KIRONGO",
+                                        "KIYUYA",
+                                        "NYANSOORO A",
+                                        "KITEMUZI WEST",
+                                        "KAMUYANGE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "MUKUMBWA WARD",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "HARURONGO",
+                                        "KIGAAYA",
+                                        "KIRANZI A",
+                                        "KIRANZI B",
+                                        "MUKUMBWA CENTRAL",
+                                        "MUKUMBWA EAST",
+                                        "KYAMASENGERE",
+                                        "MUKUMBWA WEST",
+                                        "RWINA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMYAKA WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KASUNGA",
+                                        "DIIDA A",
+                                        "KITEMUZI CENTRAL",
+                                        "KITEMUZI EAST",
+                                        "NYABARUNGI A",
+                                        "NYABARUNGI B",
+                                        "KYEMBOGO A",
+                                        "KYEMBOGO B",
+                                        "MABAALE SOUTH"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "constituency": "BUYAGA WEST COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "BWIKARA",
+                            "number_of_subcounties": 38,
+                            "data": [
+                                {
+                                    "parish": "KISUURA",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KICWAMBA A",
+                                        "KICWAMBA B",
+                                        "BWIKARA CENTRAL",
+                                        "KISUURA A",
+                                        "KISUURA B",
+                                        "KISUURA C",
+                                        "KABURAISOKE",
+                                        "RUSAKA",
+                                        "KAKOGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMASA",
+                                    "number_of_villages": 11,
+                                    "villages": [
+                                        "ALIBAAKI A",
+                                        "ALIBAAKI B",
+                                        "KISAARA A",
+                                        "KISAARA B",
+                                        "NYABINANGA",
+                                        "NYAKABAALE A",
+                                        "NYAMASA",
+                                        "NYANKUBEBE A",
+                                        "KATIKARA",
+                                        "NYAKABAALE B",
+                                        "NYANKUBEBE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMUSEGU",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "BUGANGAMA",
+                                        "HUMURA",
+                                        "KAMUSENGU CAMP",
+                                        "KAMUSENGU CENTRAL",
+                                        "KIBISO",
+                                        "MUZIIZI TEA ESTATE",
+                                        "KARAMBI",
+                                        "KITUSI"
+                                    ]
+                                },
+                                {
+                                    "parish": "NGOMA",
+                                    "number_of_villages": 10,
+                                    "villages": [
+                                        "KAMUKOLE A",
+                                        "MATUNTU A",
+                                        "MATUNTU B",
+                                        "NGOMA A",
+                                        "KAMUKOLE B",
+                                        "NYAMALEMBO A",
+                                        "NYAMALEMBO B",
+                                        "NYAMALEMBO C",
+                                        "NGOMA B",
+                                        "RUGANA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYAKABADIIMA",
+                            "number_of_subcounties": 18,
+                            "data": [
+                                {
+                                    "parish": "KYAKABADIIMA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "RWENSANDE",
+                                        "RWESABAJJA B",
+                                        "KYAKABADIIMA A",
+                                        "KYAKABADIIMA T/C",
+                                        "RWESABAJJA A",
+                                        "NYAKAFUNJO"
+                                    ]
+                                },
+                                {
+                                    "parish": "HAMUGYI",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "HAMUGYI",
+                                        "KITUGU WEST",
+                                        "KASUBI",
+                                        "KAVULE",
+                                        "KITUGU EAST",
+                                        "KYAKABADIIMA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMUYANGE",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KAMUYANGE",
+                                        "KYAMAGANA WEST",
+                                        "KYAMAGANA C",
+                                        "KYAMAGANA A",
+                                        "KYAMAGANA B",
+                                        "KISIGARI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MUHORRO TOWN COUNCIL",
+                            "number_of_subcounties": 43,
+                            "data": [
+                                {
+                                    "parish": "BUTUMBA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BUTUMBA B",
+                                        "BUTUMBA A",
+                                        "KYANYAMUNYU",
+                                        "NYAMANGA",
+                                        "NYABUBAALE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISWEEKA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KANYWAMIYAGA",
+                                        "KIHEEREZA",
+                                        "KISENYI",
+                                        "KITOORO",
+                                        "MUHORRO CENTRAL"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAPYEMI WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KAPYEMI A",
+                                        "KAPYEMI B",
+                                        "KITOOGA A",
+                                        "KAPYEMI C",
+                                        "KIGASANI",
+                                        "KITOOGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KARUSWIGA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "IGULIKA",
+                                        "KARUSWIGA CENTRAL",
+                                        "KARUSWIGA EAST",
+                                        "KARUSWIGA WEST",
+                                        "NYANZIGE",
+                                        "KYAMAJAKA",
+                                        "KAHYORO B",
+                                        "BUGAMU"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMITI WARD",
+                                    "number_of_villages": 10,
+                                    "villages": [
+                                        "KAHYORO A",
+                                        "KIBANGA",
+                                        "KIRYABYENJU",
+                                        "KYAMURODO",
+                                        "NYAMITI",
+                                        "RUSWIGA",
+                                        "KASAGAATE",
+                                        "KUOJO",
+                                        "KIYONJO",
+                                        "KYARUSA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYANSEKE WARD",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "BUSOIGA",
+                                        "KARALIKE",
+                                        "KYABAKARA",
+                                        "KYAKAZANA",
+                                        "NYABIGATA",
+                                        "NYANSEKE A",
+                                        "PIIDA",
+                                        "MIRONGO",
+                                        "NYANSEKE B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "GALIBOLEKA",
+                            "number_of_subcounties": 26,
+                            "data": [
+                                {
+                                    "parish": "BUGARAMA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUGARAMA A",
+                                        "TWERIIRE",
+                                        "BUGARAMA B",
+                                        "TWEYANZE"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKASOZI",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "GALIBOLEKA A",
+                                        "GALIBOLEKA B",
+                                        "KAGARAMA A",
+                                        "NYAKASOZI",
+                                        "NYARUHANGA",
+                                        "KAGARAMA B",
+                                        "NYAKAINA",
+                                        "RWABITUJU"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYANKOMA",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "BUSUNGUBWA",
+                                        "KYENJOJO A",
+                                        "MUSANDIKA A",
+                                        "NYANKOMA A",
+                                        "NYANKOMA B",
+                                        "KYENJOJO B",
+                                        "MUSANDIKA B",
+                                        "NYANKOMA C"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUTOOMA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BWERA A",
+                                        "KAJUMA",
+                                        "RUTOOMA A",
+                                        "RWENTAAHI",
+                                        "BWERA B",
+                                        "RUTOOMA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MAIRIRWE",
+                            "number_of_subcounties": 29,
+                            "data": [
+                                {
+                                    "parish": "MAIRIRWE",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KITEHE A",
+                                        "KYABAYANGA A",
+                                        "KYEIBUMBA",
+                                        "MAIRIIRWE",
+                                        "MUNSENYI A",
+                                        "KITEHE B",
+                                        "KYABAYANGA B",
+                                        "MBABA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BATAHULIRA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUTAHULIRA A",
+                                        "BUTAHULIRA B",
+                                        "NYANSWA A",
+                                        "NYANSWA B",
+                                        "NYAMAHEGA",
+                                        "MUNSENYI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAYANJA",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "BWEGIRAGYE",
+                                        "BUGAMBAIHE B",
+                                        "RWENSONZI",
+                                        "IGABIRO",
+                                        "KAISAMUNYA A",
+                                        "KAISAMUNYA B",
+                                        "KAYANJA A",
+                                        "KAYANJA B",
+                                        "KIGULI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYEMA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUGAMBAIHE A",
+                                        "KATOMA",
+                                        "NYAKAKO",
+                                        "KENGANDO",
+                                        "KYEMA A",
+                                        "KYEMA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MPEEFU",
+                            "number_of_subcounties": 22,
+                            "data": [
+                                {
+                                    "parish": "RWABARANGA",
+                                    "number_of_villages": 12,
+                                    "villages": [
+                                        "KASANA",
+                                        "KASARA",
+                                        "KASHEBEYA",
+                                        "KASOJO",
+                                        "MPEEFU B",
+                                        "MUGYEIGURU A",
+                                        "MUGYEIGURU B",
+                                        "RUTOOMA",
+                                        "RWABARANGA",
+                                        "RWENSHENENE A",
+                                        "SIYONI",
+                                        "TUHUMWIRE"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUBIRIZI",
+                                    "number_of_villages": 10,
+                                    "villages": [
+                                        "KANDOORA",
+                                        "KIJURU",
+                                        "MUTUULE",
+                                        "NYAKATOJO",
+                                        "RUBIRIZI A",
+                                        "RUBIRIZI B",
+                                        "RUGARAMA",
+                                        "RWENSENENE B",
+                                        "WABINYAMA",
+                                        "WAIHEMBE"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MUHORRO",
+                            "number_of_subcounties": 20,
+                            "data": [
+                                {
+                                    "parish": "KABUGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUNUNKYA",
+                                        "KABUGA A",
+                                        "KYABASENGYA",
+                                        "KYANKORONGOTO",
+                                        "NYABURUNGI",
+                                        "KABUGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KASOGA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "IBANDA",
+                                        "KASOGA",
+                                        "KAMBOGO",
+                                        "KASOGA TRADING CENTER"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYESAMIRE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYAKAJWIGA",
+                                        "KYESAMIRE A",
+                                        "KYESAMIRE B",
+                                        "NYAMBEHO",
+                                        "KYABAGOGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMACUMU",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYANYARAALE",
+                                        "NYAMACUMU A",
+                                        "NYAMIGISA A",
+                                        "NYAMIGISA B",
+                                        "NYAMACUMU B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "RUGASHARI",
+                            "number_of_subcounties": 18,
+                            "data": [
+                                {
+                                    "parish": "NDEEBA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIBUGA A",
+                                        "KIBUGA B",
+                                        "NDEEBA A",
+                                        "NDEEBA B",
+                                        "KANYINYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "IZAHUURA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "IZAHURA B",
+                                        "IZAHURA T/C",
+                                        "IRUHURA A",
+                                        "IZAHURA A",
+                                        "IRUHURA B",
+                                        "RUKIGA A",
+                                        "RUKIGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KINAABA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KINAABA A",
+                                        "KINAABA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBAANDA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIBANDA T/C",
+                                        "KIBANDA A",
+                                        "KIBANDA B",
+                                        "NYABWISENYA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NYAKARONGO",
+                            "number_of_subcounties": 40,
+                            "data": [
+                                {
+                                    "parish": "NYAKARONGO",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "ITAHA",
+                                        "KAKINDO",
+                                        "KITONZI A",
+                                        "KITONZI B",
+                                        "KYAKASORO",
+                                        "KYERAHA",
+                                        "NYAKARONGO CENTRAL",
+                                        "NYAKARONGO HEMU",
+                                        "KAROKARUNGI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KATALEMWA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KATALEMWA A",
+                                        "KATALEMWA B",
+                                        "NYAMIREMBE",
+                                        "RUSENYI",
+                                        "RUSENYI CENTRAL",
+                                        "KIGATA",
+                                        "KITABUGIKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KATIKENGEYO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BURANGWA",
+                                        "KATIKENGEYO A",
+                                        "KAGUGO",
+                                        "KATIKENGEYO CENTRAL",
+                                        "RUKIRI A",
+                                        "RUKIRI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISUNGU",
+                                    "number_of_villages": 11,
+                                    "villages": [
+                                        "BWEMA A",
+                                        "KYABAIRU A",
+                                        "KYABAIRU B",
+                                        "MAGUSURU A",
+                                        "MAGUSURU B",
+                                        "KISUNGU A",
+                                        "KISUNGU B",
+                                        "MABAALE A",
+                                        "MABAALE B",
+                                        "MABAALE C",
+                                        "BWEMA B",
+                                        "HAKONDO"
+                                    ]
+                                },
+                                {
+                                    "parish": "MABERENGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUGAHYA A",
+                                        "BUGAHYA B",
+                                        "MABERENGA A",
+                                        "MABERENGA B",
+                                        "MABERENGA C",
+                                        "KAIHA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BURORA",
+                            "number_of_subcounties": 43,
+                            "data": [
+                                {
+                                    "parish": "BURORA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAHANAMA",
+                                        "KYABASAZIMA",
+                                        "NYABUGANDO A",
+                                        "NYABUGANDO C",
+                                        "BURORA T/C"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMUKAIKURU",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BURORA A",
+                                        "MABUYEMERU",
+                                        "NYAMUKAIKURU",
+                                        "MABUYEMERO B",
+                                        "NYAMUKAIKURU B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAYEMBE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NYABUGANDO EAST",
+                                        "NYAKABINGO B",
+                                        "NYAKABINGO A",
+                                        "NYABUGANDO B",
+                                        "KAYEMBE"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUTUUZA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KIHEREZA",
+                                        "KABARODI A",
+                                        "KABARODI B",
+                                        "MUTUNGURU",
+                                        "RUTUUZA",
+                                        "KIGWABYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWENTALE",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KABYAZA NORTH",
+                                        "KABYAZA",
+                                        "KABYAZA WEST",
+                                        "KATOMA",
+                                        "RWENTALE A",
+                                        "RWENTALE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMAMBU",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KASENYI",
+                                        "KASOZI",
+                                        "KIKYEKU",
+                                        "RUYANJA",
+                                        "BURORA B",
+                                        "KAMAMBU A"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIHUMURO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAROKARUNGI",
+                                        "KAFENE",
+                                        "KIHUMURO A",
+                                        "KIHUMURO B",
+                                        "KARAMBI"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMIGISA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NYAMIGISA NORTH",
+                                        "NYAMIGISA",
+                                        "RUYANJA",
+                                        "NYAMIGISA CENTRAL",
+                                        "NYAMIGISA SOUTH"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MPEEFU YA SANDE TOWN COUNCIL",
+                            "number_of_subcounties": 27,
+                            "data": [
+                                {
+                                    "parish": "MUGYENZA WARD",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "BUSINGYE",
+                                        "KAFENE",
+                                        "KIBENGO",
+                                        "KANYEGARAMIRE",
+                                        "MUGYENZA",
+                                        "NYAMIGISHA",
+                                        "RUGAMBWA",
+                                        "RUJUMBURA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMUKARA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "BURAZA",
+                                        "BWERA",
+                                        "BWERANYANJI",
+                                        "KANYINYA",
+                                        "NYAKABAALE",
+                                        "NYAMUKARA",
+                                        "RUKOORA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KURUKURU WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KANYABUHUKA",
+                                        "KANYAMIYAGA",
+                                        "KORANYA",
+                                        "KURUKURU A",
+                                        "KURUKURU B",
+                                        "KURURURU CENTRAL",
+                                        "NYAKAGYERA",
+                                        "OMUKIKAZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "BULIGIRA WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BULIGIRA",
+                                        "TWESIMIRE",
+                                        "KANYAMUNGUSE",
+                                        "MPEEFU A",
+                                        "MPOKYA",
+                                        "KAMOTOKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MPEEFU CENTRAL WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "IRUHURA",
+                                        "GALIRAYA",
+                                        "KARAMA",
+                                        "KAYERA",
+                                        "MPEEFU UPPER",
+                                        "MPEEFU CENTRAL"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYATEREKERA",
+                            "number_of_subcounties": 8,
+                            "data": [
+                                {
+                                    "parish": "BUSWAKA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "MUZIIZI A",
+                                        "MUZIIZI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "WANGEYO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "SOBORWA",
+                                        "TWEYANZE",
+                                        "WANGEYO A",
+                                        "WANGEYO B",
+                                        "WANGYEYO CENTRAL",
+                                        "KIYENZI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KYATEREKERA TOWN COUNCIL",
+                            "number_of_subcounties": 26,
+                            "data": [
+                                {
+                                    "parish": "KYATEREKERA EAST WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KYABUZAMBA",
+                                        "KABADEDE",
+                                        "KITUMBA A",
+                                        "KATERERA B",
+                                        "KYATEREKERA A",
+                                        "KYATEREKERA B",
+                                        "MURUHA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYANTONZI WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KAKOOGA EAST",
+                                        "KYOMUKAMA A",
+                                        "MPUMUDDE A",
+                                        "NYANTONZI",
+                                        "KAKOOGA WEST",
+                                        "MPUMUDDE B",
+                                        "KYOMUKAMA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYATEREKERA WEST WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KIHINDA",
+                                        "KYATEREKERA CENTRAL",
+                                        "KYATEREKERA HEALTH CENTRE",
+                                        "KYATEREKERA MARKET",
+                                        "KITUMBA B",
+                                        "LUBIRI"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUSWAKA WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUSWAKA A",
+                                        "BUSWAKA B",
+                                        "KATERERA A",
+                                        "BUHUMULIRO",
+                                        "LYANDA A",
+                                        "LYANDA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NDAIGA",
+                            "number_of_subcounties": 8,
+                            "data": [
+                                {
+                                    "parish": "NDAIGA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KABUKANGA",
+                                        "NDAIGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMINA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KAMINA",
+                                        "RWEBIGONGORO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITEBERE",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "KITEBERE",
+                                        "NGUSE"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMASOGA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "NYAMASOGA",
+                                        "SONGARAHO"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KANYABEEBE",
+                            "number_of_subcounties": 20,
+                            "data": [
+                                {
+                                    "parish": "KASHAGALI",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KASHAGALI CENTRAL",
+                                        "KASHAGALI A",
+                                        "KASHAGALI B",
+                                        "YERUZALEMU A",
+                                        "YERUZALEMU B",
+                                        "YERUZALEMU C"
+                                    ]
+                                },
+                                {
+                                    "parish": "KANYABEEBE CENTRAL",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUSINGE",
+                                        "KANYABEEBE B",
+                                        "KANYABEEBE EAST",
+                                        "KANYABEEBE NORTH",
+                                        "KANYABEEBE SOUTH",
+                                        "KANYABEEBE CENTRAL"
+                                    ]
+                                },
+                                {
+                                    "parish": "KANYABEBE",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "KANYABEEBE WEST",
+                                        "KANYABEEBE A",
+                                        "KANYABEEBE C"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUBAALE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "RUBAALE B",
+                                        "RUBAALE C",
+                                        "RUBAALE A",
+                                        "MINIHO A",
+                                        "MINIHO B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "RUTEETE",
+                            "number_of_subcounties": 12,
+                            "data": [
+                                {
+                                    "parish": "RUBONA",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "BUFUNDI",
+                                        "NYAKABUNGO",
+                                        "RUBONA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KINYARWANDA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUHUMURIRO",
+                                        "KINYARWANDA",
+                                        "KYARUSOZI",
+                                        "KYEYA",
+                                        "SIYONI",
+                                        "NYAMABALE"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKASHEEMA",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "NYABWEGYEREKA A",
+                                        "NYABWEGYEREKA B",
+                                        "KACERI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "BUHUMULIRO",
+                            "number_of_subcounties": 26,
+                            "data": [
+                                {
+                                    "parish": "BWERANYANGE",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BWERANYANGE T/C",
+                                        "BWERANYANGE A",
+                                        "NYAMIRIMA B",
+                                        "KAGALI",
+                                        "NYAMIRIMA A",
+                                        "BUSINGE"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUKORA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "MUKUKU",
+                                        "MUBEJE",
+                                        "BWERANYANGE B",
+                                        "BUKOORA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUHUMULIRO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUHUMURIRO A",
+                                        "BUHUMURIRO B",
+                                        "KATOOMA",
+                                        "KEMIREMBE",
+                                        "MUKOLE",
+                                        "NYAKABARE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KASASA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIBINGO",
+                                        "NYAMIYAGA",
+                                        "KASASA",
+                                        "KASOZI A",
+                                        "KASOZI B"
+                                    ]
+                                },
+                                {
+                                    "parish": "NAMUGONGO",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NAMUGONGO B",
+                                        "NAMUGONGO C",
+                                        "KARAMBI",
+                                        "MPANGA",
+                                        "NAMUGONGO A"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "RUTEETE TOWN COUNCIL",
+                            "number_of_subcounties": 25,
+                            "data": [
+                                {
+                                    "parish": "RUTEETE WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MUTUNDA A",
+                                        "RUTEETE EAST",
+                                        "RUTEETE CENTRAL",
+                                        "WALIRE",
+                                        "RUTEETE WEST"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMAIRA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAMAIRA A",
+                                        "KABUNGO",
+                                        "KAMAIRA EAST",
+                                        "KINANGA",
+                                        "KAMAIRA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KASASA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KASASA B",
+                                        "KASASA A",
+                                        "KIREMBE",
+                                        "NYAMIYAGA A",
+                                        "NYAMIYAGA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KENTOMI WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NYAKABINGO C",
+                                        "NYAKABINGO A",
+                                        "NYAKABINGO B",
+                                        "KENTOMI",
+                                        "NTARAGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKASHEMA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NATEETE",
+                                        "MAKANGA",
+                                        "NYAKASHEMA A",
+                                        "NYAKASHEMA B",
+                                        "NYAKASHEMA C"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "RUGASHARI TOWN COUNCIL",
+                            "number_of_subcounties": 30,
+                            "data": [
+                                {
+                                    "parish": "YORUDAN WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MUHUMUZA",
+                                        "KAKUNDWA",
+                                        "KANYAMUNYU",
+                                        "YORUDANI B",
+                                        "YORUDAN A"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABITUNDU WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYABITUNDU B",
+                                        "KYABITUNDU A",
+                                        "KYABITUNDU C",
+                                        "RUBUBA B",
+                                        "RUBUBA A"
+                                    ]
+                                },
+                                {
+                                    "parish": "NAMIREMBE WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "GALIRAYA B",
+                                        "KAGANDO",
+                                        "NAMIREMBE A",
+                                        "NAMIREMBE B",
+                                        "KAROKARUNGI"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUTOOMA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KIRYANJOVU A",
+                                        "KIRYANJOVU B",
+                                        "HAKABARE",
+                                        "RUTOOMA A",
+                                        "RUTOOMA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUGASHARI WARD",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KIRYANJOJO",
+                                        "RUGASHARI B",
+                                        "NYABWISHENYA",
+                                        "GALIRAYA",
+                                        "NYABURUNGI",
+                                        "RUGASHARI C",
+                                        "KIBANDA",
+                                        "MAKANGA",
+                                        "RUGASHARI A",
+                                        "RUGASHARI TC"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "constituency": "BUGANGAIZI WEST COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "KAKINDO",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "KATATEMWA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KYARUBYAMA",
+                                        "KARAMA",
+                                        "KIRIISA",
+                                        "KATATEMWA",
+                                        "MASA",
+                                        "KYABASAANA",
+                                        "KIHANGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIHUUNA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUSEERA",
+                                        "WANSISA",
+                                        "KIHUUNA A",
+                                        "KIHUUNA B",
+                                        "KITABONA",
+                                        "TUHUMULE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISAIGI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "NGUSE",
+                                        "KIHAGUZI",
+                                        "RUGOIGO",
+                                        "MARONGO",
+                                        "IRORA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KASENYI",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KAZIIZI",
+                                        "KYARUTEEKA",
+                                        "KASENYI",
+                                        "KYAKATEERA",
+                                        "RWEMITEEGA",
+                                        "KYARUJUMBA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NALWEYO",
+                            "number_of_subcounties": 21,
+                            "data": [
+                                {
+                                    "parish": "IRINDIMURA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "IRINDIMURA",
+                                        "KAROKARUNGI",
+                                        "KATUGO",
+                                        "KIYANDA",
+                                        "RWENGYEYE",
+                                        "KADIKI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJWENGE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BUGWARA",
+                                        "KITOSI",
+                                        "KIJWENGE",
+                                        "KIRYAMASASA",
+                                        "RUKANGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAKISEKE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BUHUMULIRO",
+                                        "KAIGURUMBA",
+                                        "KAKISEKE",
+                                        "KIIHE",
+                                        "KISENYI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KARJUKO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KYOGABICWE",
+                                        "KIHUUNA",
+                                        "KIRIIRA",
+                                        "MAASA",
+                                        "NDONGO A"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KITAIHUKA",
+                            "number_of_subcounties": 29,
+                            "data": [
+                                {
+                                    "parish": "KIRIISA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KYAMAGARA",
+                                        "KATORERWA A",
+                                        "KATORERWA B",
+                                        "KYEZIGAMYA",
+                                        "KYETUME",
+                                        "KIRIISA",
+                                        "KITEREDE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJEGERE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KADUNDUMO",
+                                        "KAMUGABA",
+                                        "NYAMATO",
+                                        "KIJEGERE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITAIHUKA",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KIRAMAGO",
+                                        "KYETEBUKA",
+                                        "IRINGO",
+                                        "KASANA",
+                                        "KINGA",
+                                        "KYAMUJUNDO",
+                                        "KYEPAPURA",
+                                        "NYABUOJO",
+                                        "KITAIHUKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KINUNDA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KIKUBA",
+                                        "KINUNDA",
+                                        "KYEIGAMYA",
+                                        "RWENGO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KASOZI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KANAARA",
+                                        "KASOZI TC",
+                                        "MUKUZA",
+                                        "MUYENGA",
+                                        "NYAMIGAJU"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIKWAYA",
+                            "number_of_subcounties": 18,
+                            "data": [
+                                {
+                                    "parish": "KIKWAYA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KANANI",
+                                        "KIKWAYA",
+                                        "KYARUKOOKA",
+                                        "MBOOGA",
+                                        "RUTOMA",
+                                        "RWANJALE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KAMULI",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAGEZI",
+                                        "KAMULI",
+                                        "KANYAMWABURA",
+                                        "KYATEREKERA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAKABANGALI",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KEMIGISA",
+                                        "KIGWARA",
+                                        "KIRYABUKURURA",
+                                        "KYAKABANGALI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAKAJUMBI",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "IKARABIRENGE",
+                                        "KATOMA",
+                                        "KYAKAJUMBI",
+                                        "MBURAMAIZI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIJANGI",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "RWEMBUBA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KASOJO",
+                                        "KATIKARA",
+                                        "NYAKASOZI",
+                                        "RUSOLERA",
+                                        "RWEMBUBA",
+                                        "KANYEGARAMIRE",
+                                        "KAVULE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJANGI",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BIGANGO",
+                                        "KABANGWIRE",
+                                        "KIJANGI",
+                                        "KYABADAMA",
+                                        "KIHUMURO",
+                                        "KYERIMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGANDO",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KANTEGE",
+                                        "KAALIRO",
+                                        "KARAGARA",
+                                        "KIGANDO",
+                                        "KYAMULIMI",
+                                        "NYABINGORA",
+                                        "KASOJO"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKATETE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUSINGE",
+                                        "NYAKATEETE",
+                                        "KYAKAHUNGU",
+                                        "KYAMUGANGUZI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KAKINDO TOWN COUNCIL",
+                            "number_of_subcounties": 23,
+                            "data": [
+                                {
+                                    "parish": "RUKUNYU WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAKINDO A",
+                                        "KYAKAMUTANGA",
+                                        "MUTABWA",
+                                        "NYABAKANDE",
+                                        "RUKUNYU"
+                                    ]
+                                },
+                                {
+                                    "parish": "KINENA WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAIGANDA",
+                                        "MPEEKA",
+                                        "KINENA",
+                                        "KAISANGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISAIGI WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KARAMA",
+                                        "KYANDAARA",
+                                        "KIRUURU",
+                                        "KISAIGI",
+                                        "KYAKATO",
+                                        "KYEFUMBIZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "MAJERU WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KYAKACOOLI",
+                                        "KAKINDO B",
+                                        "KYAKACWENDE",
+                                        "MAJERU"
+                                    ]
+                                },
+                                {
+                                    "parish": "NKWAKI WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "IGOMBA",
+                                        "MUKIRAMA",
+                                        "NGOMENI",
+                                        "NKWAKI"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIKOORA",
+                            "number_of_subcounties": 17,
+                            "data": [
+                                {
+                                    "parish": "KIKOORA",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "BUSINGYE",
+                                        "NYABUSHOZI",
+                                        "KYEEMA",
+                                        "KIKOORA A",
+                                        "KIKOORA B",
+                                        "RUTOOMA",
+                                        "KADIKI",
+                                        "KAMAZIMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIGOMA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BETANIA",
+                                        "KAGUHA",
+                                        "KASASA",
+                                        "KYOMWERU",
+                                        "KIGOMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAKATOOKE",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KABUUGO",
+                                        "KALOKARUNGI",
+                                        "MUKAMULI",
+                                        "NYAKATOOKE",
+                                        "NTEBE"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NYARWEYO TOWN COUNCIL",
+                            "number_of_subcounties": 22,
+                            "data": [
+                                {
+                                    "parish": "KYABEYA WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KAKOORA",
+                                        "GALIRAYA",
+                                        "KYAMUGANDA",
+                                        "IGABURA",
+                                        "KYABEYA",
+                                        "KYENTALE",
+                                        "MBWERA"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYARWEYO WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KAHIIKE",
+                                        "KOLIRE",
+                                        "NYARWEYO CENTRAL",
+                                        "NYARWEYO EAST",
+                                        "NYARWEYO WEST"
+                                    ]
+                                },
+                                {
+                                    "parish": "BURUUKO WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYAGUTEME",
+                                        "KIHONGE",
+                                        "KYASAJWA",
+                                        "KYEMPUNGU",
+                                        "KYOMUKAMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "MASAKA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KASISA",
+                                        "RWABARANGA",
+                                        "KYARUNYONYI",
+                                        "KISAGARA",
+                                        "MASAKA A"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "constituency": "BUGANGAIZI EAST COUNTY",
+                    "data": [
+                        {
+                            "subcounty": "KATIKARA",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "KIRYANDONGO",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIRYANDONGO",
+                                        "KYAKAJORO B",
+                                        "MASAKA B",
+                                        "KITAHEMBA",
+                                        "KYAKAJORO A",
+                                        "KYAKASIMBAAZI",
+                                        "MUMBALI"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITABOONA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KABUKURURA",
+                                        "KAMIRAMPUTA",
+                                        "KITABOONA",
+                                        "KYAMUKWENGE",
+                                        "KYERIMIRA",
+                                        "MULINGA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYANGOTA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KYEDIKYO A",
+                                        "KYEDIKYO B",
+                                        "MUKONO A",
+                                        "MUKONO B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KATIKARA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KATIKARA NORTH",
+                                        "KABAJEKERE",
+                                        "KASAMBYA",
+                                        "KATIKARA",
+                                        "KIHUMURO",
+                                        "KISENYI",
+                                        "NYAKABUGO"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KISIITA TOWN COUNCIL",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "BWIKARAGYE WARD",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BWIKARAGYE A",
+                                        "BWIKARAGYE B",
+                                        "DAMASIKO",
+                                        "KISIITA B",
+                                        "KATAFALI",
+                                        "RWENSWA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABALIITWA WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYABALIITWA",
+                                        "KYABANENA",
+                                        "KISIITA A",
+                                        "KYAMAJARA",
+                                        "KYENTALE"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYABIRUNGI WARD",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MPONGO",
+                                        "NYABIRUNGI",
+                                        "RWEMIRAMA",
+                                        "NYAKAHITA",
+                                        "KIHUMURO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KISIITA CENTRAL WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "KISIITA SOUTH",
+                                        "KISIITA WEST B",
+                                        "KYANGOTA A",
+                                        "KYANGOTA B",
+                                        "KYEKADO",
+                                        "RWEMBUGA",
+                                        "KISIITA EAST",
+                                        "KISIITA WEST"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KIBIJJO",
+                            "number_of_subcounties": 36,
+                            "data": [
+                                {
+                                    "parish": "ISUNGA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "ISUNGA",
+                                        "KAKINDO",
+                                        "KYAKAHANGA",
+                                        "MWENGEYA",
+                                        "KYAMUSALE",
+                                        "NABINGORA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KARANGALA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "BUHUMURIRO",
+                                        "KARANGALA",
+                                        "KAGUNGA",
+                                        "KATOOGO",
+                                        "KITEKYE"
+                                    ]
+                                },
+                                {
+                                    "parish": "MUZIRANDURU",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "GALIRAYA",
+                                        "KAHYOORO",
+                                        "KARUNGI",
+                                        "KAYANJA",
+                                        "KIBANDE",
+                                        "MUZIRANDURU",
+                                        "BUTENGYA"
+                                    ]
+                                },
+                                {
+                                    "parish": "SAZIKE",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BUCUMBI",
+                                        "KAKOORA",
+                                        "MIJUMA",
+                                        "NAKASAGAZI",
+                                        "SAZIKE A",
+                                        "SAZIKE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIBIJJO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "TUHUMWIRE",
+                                        "KIKONKO",
+                                        "KATEHE",
+                                        "KIBIJJO EAST",
+                                        "KIBIJJO WEST",
+                                        "MURAMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITUTUMA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KIYIMBIRA",
+                                        "KABUUBWA EAST",
+                                        "KABUUBWA WEST",
+                                        "NZIIYA",
+                                        "KASAMBYA",
+                                        "KIRINDA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "KISIITA",
+                            "number_of_subcounties": 24,
+                            "data": [
+                                {
+                                    "parish": "BUHONDA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "BUHONDA",
+                                        "KYAKAJUNANI A",
+                                        "KYAKAJUNANI CENTRAL",
+                                        "BUHONDA SOUTH",
+                                        "BUHONDA EAST",
+                                        "KYAKAJUNANI B",
+                                        "BUHUMULIRO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAKAPERE",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KYAKAPERE A",
+                                        "KYAKAPERE NORTH",
+                                        "RWENTUHA A",
+                                        "RWENTUHA B",
+                                        "KYAKAPERE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYAKIJUJITO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KARAMA",
+                                        "KYAKIJUJITO EAST",
+                                        "KYAKIJUJITO WEST",
+                                        "RWENSENGE"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYOBU",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "KATUGO",
+                                        "RWENYANGYI B",
+                                        "RWENYANGYI A",
+                                        "KYOBU",
+                                        "KYOBU CENTRAL"
+                                    ]
+                                },
+                                {
+                                    "parish": "NYAMIRAMA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "BUSINGYE",
+                                        "MABENGERE",
+                                        "NABISAVA B",
+                                        "NABISAVA A",
+                                        "NYAMIRAMA A",
+                                        "NYAMIRAMA CENTRAL",
+                                        "NYAMIRAMA B"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MWITANZIGE",
+                            "number_of_subcounties": 34,
+                            "data": [
+                                {
+                                    "parish": "KYAKUTEREKERA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KIYUNI",
+                                        "KYAKUTEREKERA A",
+                                        "NYAKAFUNJO",
+                                        "KITEREDE",
+                                        "TUKUNDANE",
+                                        "DEMBE",
+                                        "KYAKUTEREKERA B"
+                                    ]
+                                },
+                                {
+                                    "parish": "LJUMANGABO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "LJUMANGABO A",
+                                        "LJUMANGABO B",
+                                        "KATUHWEZE",
+                                        "KISENYI",
+                                        "RWESHENGYE",
+                                        "BUHUMULIRO"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABUSINGE",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "BULEMBA",
+                                        "MITOOMA",
+                                        "NYANTOOKYE",
+                                        "SALAAMA",
+                                        "KYOBUSINGE A",
+                                        "KYOBUSINGE B"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWAMADONGO",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "NYAMIGISA",
+                                        "OMUKASHANSHA",
+                                        "TUHUMWIRE",
+                                        "RWAMADONGO",
+                                        "BWIRE",
+                                        "MUZIIZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "MWITANZIGE",
+                                    "number_of_villages": 9,
+                                    "villages": [
+                                        "KANYANSI",
+                                        "KATEBE",
+                                        "RWEGEGYE",
+                                        "NYAMIYAGA",
+                                        "TWIMUKYE",
+                                        "MWITANZIGE EAST",
+                                        "KAROKARUNGI B",
+                                        "KAROKARUNGI A",
+                                        "MWITANZIGE WEST"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NKOOKO",
+                            "number_of_subcounties": 22,
+                            "data": [
+                                {
+                                    "parish": "NSAANA",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KITEREDE",
+                                        "RWEBINYOMO",
+                                        "MUKOORA A",
+                                        "MUKOORA B",
+                                        "RWENSHAMA",
+                                        "NSAANA",
+                                        "KAWUKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "RUTOOMA",
+                                    "number_of_villages": 6,
+                                    "villages": [
+                                        "KABARUNGI",
+                                        "KARAMA",
+                                        "KASENYI",
+                                        "NYABUBALE",
+                                        "RUTOOMA A",
+                                        "RUTOOMA B",
+                                        "NYAMWEGABIRA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KITEGURA",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KITEGURA",
+                                        "KYEEZA",
+                                        "LUSAGAZI",
+                                        "MWERUKA"
+                                    ]
+                                },
+                                {
+                                    "parish": "LUBUMBO",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "GAMUGOLE",
+                                        "KANTU",
+                                        "RWENYANGE",
+                                        "RUBUMBO"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "NKOOKO TOWN COUNCIL",
+                            "number_of_subcounties": 15,
+                            "data": [
+                                {
+                                    "parish": "KAMUSENENE WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAMUSENENE WEST",
+                                        "KIBANGA CELL",
+                                        "KAMUSENENE EAST",
+                                        "MUGABI CELL"
+                                    ]
+                                },
+                                {
+                                    "parish": "GAMUGOLE WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "KAITANJOJO",
+                                        "KYABISAMBU",
+                                        "NTEYERA",
+                                        "RWEMBUZI"
+                                    ]
+                                },
+                                {
+                                    "parish": "NKOOKO WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "NDAIGA",
+                                        "NKOOKO",
+                                        "NKOOKO T/C",
+                                        "WAGAANA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KYABAKAMBA WARD",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "BITAHONDWA",
+                                        "KYABAKAMBA",
+                                        "KACHWAMPARE",
+                                        "WABITAAMA"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+
+}
