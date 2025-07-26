@@ -3631,6 +3631,126 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "subcounty": "NKOOKO TOWN COUNCIL",
+                            "number_of_villages": 16,
+                            "data": [
+                                {
+                                    "parish": "BINIKIRA",
+                                    "number_of_villages": 3,
+                                    "villages": [
+                                        "BINIKIRA EAST",
+                                        "BINIKIRA WEST",
+                                        "KALABATA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUJAAJA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MPONGO K",
+                                        "BUJAAJA EAST",
+                                        "BUJAAJA WEST",
+                                        "KITUTUMA",
+                                        "RWENSAMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWAMATA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "MASURWA",
+                                        "BUTIITA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MPASAANA",
+                            "number_of_villages": 10,
+                            "data": [
+                                {
+                                    "parish":"BINIKIRA",
+                                    "number_of_villages": 3,
+                                    "villages":[
+                                        "BINIKIRA EAST",
+                                        "BINIKIRA WEST",
+                                        "KALABATA"
+                                    ]
+                                },
+                                {
+                                    "parish": "BUJAAJA",
+                                    "number_of_villages": 5,
+                                    "villages": [
+                                        "MPONGO K",
+                                        "BUJAAJA EAST",
+                                        "BUJAAJA WEST",
+                                        "KITUTUMA",
+                                        "RWENSAMA"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWAMATA",
+                                    "number_of_villages": 2,
+                                    "villages": [
+                                        "MASURWA",
+                                        "BUTIITA"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subcounty": "MPASAANA TOWN COUNCIL",
+                            "number_of_villages": 22,
+                            "data": [
+                                {
+                                    "parish": "CENTRAL WARD",
+                                    "number_of_villages": 7,
+                                    "villages": [
+                                        "KYAJAAWE B",
+                                        "KYAJAAWE C",
+                                        "MUKONO",
+                                        "KAMIRABYOMA",
+                                        "KYAJAAWE A",
+                                        "KYAMUSEESA",
+                                        "MPASAANA"
+                                    ]
+                                },
+                                {
+                                    "parish": "KIJUUNGU WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUGERERE",
+                                        "KASAMBYA",
+                                        "KIJUNGU",
+                                        "KYANANJUBU"
+                                    ]
+                                },
+                                {
+                                    "parish": "MPONGO WARD",
+                                    "number_of_villages": 8,
+                                    "villages": [
+                                        "MPONGO C",
+                                        "KAKYINGA",
+                                        "KANYEGARAMIRE",
+                                        "KIHUMURO",
+                                        "MPONGO A",
+                                        "MPONGO B",
+                                        "MUNZO"
+                                    ]
+                                },
+                                {
+                                    "parish": "RWAMATA WARD",
+                                    "number_of_villages": 4,
+                                    "villages": [
+                                        "BUSWABWERA",
+                                        "MABENGERE",
+                                        "RWAMAREBE",
+                                        "RWAMATA"
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
